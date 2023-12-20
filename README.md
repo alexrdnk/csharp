@@ -1,2 +1,1 @@
-# csharp
-csharp
+# Accounting program which show basic OOP structure
