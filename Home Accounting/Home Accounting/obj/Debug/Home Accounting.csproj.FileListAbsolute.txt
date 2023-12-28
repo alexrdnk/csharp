@@ -1,0 +1,10 @@
+C:\Users\Oleksandr\Desktop\Home Accounting\Home Accounting\Home Accounting\obj\Debug\Home Accounting.csproj.AssemblyReference.cache
+C:\Users\Oleksandr\Desktop\Home Accounting\Home Accounting\Home Accounting\obj\Debug\Home_Accounting.Properties.Resources.resources
+C:\Users\Oleksandr\Desktop\Home Accounting\Home Accounting\Home Accounting\obj\Debug\Home Accounting.csproj.GenerateResource.cache
+C:\Users\Oleksandr\Desktop\Home Accounting\Home Accounting\Home Accounting\obj\Debug\Home Accounting.csproj.CoreCompileInputs.cache
+C:\Users\Oleksandr\Desktop\Home Accounting\Home Accounting\Home Accounting\bin\Debug\Home Accounting.exe.config
+C:\Users\Oleksandr\Desktop\Home Accounting\Home Accounting\Home Accounting\bin\Debug\Home Accounting.exe
+C:\Users\Oleksandr\Desktop\Home Accounting\Home Accounting\Home Accounting\bin\Debug\Home Accounting.pdb
+C:\Users\Oleksandr\Desktop\Home Accounting\Home Accounting\Home Accounting\obj\Debug\Home_Accounting.HomeAcc.resources
+C:\Users\Oleksandr\Desktop\Home Accounting\Home Accounting\Home Accounting\obj\Debug\Home Accounting.exe
+C:\Users\Oleksandr\Desktop\Home Accounting\Home Accounting\Home Accounting\obj\Debug\Home Accounting.pdb
